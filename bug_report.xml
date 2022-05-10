@@ -1,1 +1,13 @@
-
+<xml>
+<id></id>
+<summary></summary>
+<discription>Discription: 
+             Environment:
+             Reproducibility:
+             Walkaround: </discription>
+<severity></severity>
+<priority></priority>
+<stepsToReproduce></stepsToReproduce>
+<actualResult></actualResult>
+<expectedResult></expectedResult>
+<attached></attached>
